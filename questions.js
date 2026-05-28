@@ -34,6 +34,5 @@ window.questions = [
   { id: 29, image: "images/IMG_5342.jpeg", question: "A 24-year-old man presents with recurrent episodes of sudden-onset palpitations. ECG shows short PR interval, wide QRS complex, and slurred upstroke of QRS complex. He is diagnosed with Wolff-Parkinson-White syndrome. Which of the following is the best long-term management?", options: ["Adenosine", "Verapamil", "Catheter ablation", "Digoxin"] },
   { id: 30, image: "images/IMG_5343.jpeg", question: "A 68-year-old man with long-standing hypertension presents with sudden onset palpitations and mild breathlessness. Pulse is irregularly irregular. ECG shows narrow QRS complexes, irregular RR intervals, and absence of distinct P waves. Which of the following is the most likely diagnosis?", options: ["Atrial flutter", "Multifocal atrial tachycardia", "Paroxysmal supraventricular tachycardia", "Atrial fibrillation"] }
 
-  // Continue questions 31–180 in same format after removing answerIndex and correctAnswerText
 ];
 ```
